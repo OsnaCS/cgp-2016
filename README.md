@@ -6,3 +6,5 @@ Hier sind die Links zu den Repositories der einzelnen Gruppen:
 
 - [Plantex](https://github.com/OsnaCS/plantex)
 - ...
+
+Die offizielle Uni-Seite des Praktikums gibt es [**hier**](http://www-lehre.inf.uos.de/cgp/2016/).
