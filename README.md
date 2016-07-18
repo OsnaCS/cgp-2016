@@ -6,5 +6,6 @@ Hier sind die Links zu den Repositories der einzelnen Gruppen:
 
 - [Plantex](https://github.com/OsnaCS/plantex)
 - [AVZ Run](https://github.com/OsnaCS/avz-run)
+- [Space Game](https://github.com/OsnaCS/space-game)
 
 Die offizielle Uni-Seite des Praktikums gibt es [**hier**](http://www-lehre.inf.uos.de/cgp/2016/).
