@@ -5,6 +5,6 @@ In diesem Repository findet ihr alle wichtigen Informationen und Links zum CG-Pr
 Hier sind die Links zu den Repositories der einzelnen Gruppen:
 
 - [Plantex](https://github.com/OsnaCS/plantex)
-- ...
+- [AVZ Run](https://github.com/OsnaCS/avz-run)
 
 Die offizielle Uni-Seite des Praktikums gibt es [**hier**](http://www-lehre.inf.uos.de/cgp/2016/).
